@@ -1,0 +1,10 @@
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataViewExample\ITMO.LabsADO.NET.DataViewExample\bin\Debug\ITMO.LabsADO.NET.DataViewExample.exe.config
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataViewExample\ITMO.LabsADO.NET.DataViewExample\bin\Debug\ITMO.LabsADO.NET.DataViewExample.exe
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataViewExample\ITMO.LabsADO.NET.DataViewExample\bin\Debug\ITMO.LabsADO.NET.DataViewExample.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataViewExample\ITMO.LabsADO.NET.DataViewExample\obj\Debug\ITMO.LabsADO.NET.DataViewExample.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataViewExample\ITMO.LabsADO.NET.DataViewExample\obj\Debug\ITMO.LabsADO.NET.DataViewExample.Form1.resources
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataViewExample\ITMO.LabsADO.NET.DataViewExample\obj\Debug\ITMO.LabsADO.NET.DataViewExample.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataViewExample\ITMO.LabsADO.NET.DataViewExample\obj\Debug\ITMO.LabsADO.NET.DataViewExample.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataViewExample\ITMO.LabsADO.NET.DataViewExample\obj\Debug\ITMO.LabsADO.NET.DataViewExample.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataViewExample\ITMO.LabsADO.NET.DataViewExample\obj\Debug\ITMO.LabsADO.NET.DataViewExample.exe
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataViewExample\ITMO.LabsADO.NET.DataViewExample\obj\Debug\ITMO.LabsADO.NET.DataViewExample.pdb
