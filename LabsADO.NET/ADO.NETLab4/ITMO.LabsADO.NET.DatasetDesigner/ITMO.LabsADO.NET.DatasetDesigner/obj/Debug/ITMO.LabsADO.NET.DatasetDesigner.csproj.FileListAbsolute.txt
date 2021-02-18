@@ -1,0 +1,10 @@
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DatasetDesigner\ITMO.LabsADO.NET.DatasetDesigner\bin\Debug\ITMO.LabsADO.NET.DatasetDesigner.exe.config
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DatasetDesigner\ITMO.LabsADO.NET.DatasetDesigner\bin\Debug\ITMO.LabsADO.NET.DatasetDesigner.exe
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DatasetDesigner\ITMO.LabsADO.NET.DatasetDesigner\bin\Debug\ITMO.LabsADO.NET.DatasetDesigner.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DatasetDesigner\ITMO.LabsADO.NET.DatasetDesigner\obj\Debug\ITMO.LabsADO.NET.DatasetDesigner.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DatasetDesigner\ITMO.LabsADO.NET.DatasetDesigner\obj\Debug\ITMO.LabsADO.NET.DatasetDesigner.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DatasetDesigner\ITMO.LabsADO.NET.DatasetDesigner\obj\Debug\ITMO.LabsADO.NET.DatasetDesigner.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DatasetDesigner\ITMO.LabsADO.NET.DatasetDesigner\obj\Debug\ITMO.LabsADO.NET.DatasetDesigner.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DatasetDesigner\ITMO.LabsADO.NET.DatasetDesigner\obj\Debug\ITMO.LabsADO.NET.DatasetDesigner.exe
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DatasetDesigner\ITMO.LabsADO.NET.DatasetDesigner\obj\Debug\ITMO.LabsADO.NET.DatasetDesigner.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DatasetDesigner\ITMO.LabsADO.NET.DatasetDesigner\obj\Debug\ITMO.LabsADO.NET.DatasetDesigner.Form1.resources
