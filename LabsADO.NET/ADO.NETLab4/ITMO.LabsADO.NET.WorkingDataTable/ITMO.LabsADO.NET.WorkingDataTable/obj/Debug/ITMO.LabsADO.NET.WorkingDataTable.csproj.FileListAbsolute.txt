@@ -1,0 +1,10 @@
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.WorkingDataTable\ITMO.LabsADO.NET.WorkingDataTable\bin\Debug\ITMO.LabsADO.NET.WorkingDataTable.exe.config
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.WorkingDataTable\ITMO.LabsADO.NET.WorkingDataTable\bin\Debug\ITMO.LabsADO.NET.WorkingDataTable.exe
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.WorkingDataTable\ITMO.LabsADO.NET.WorkingDataTable\bin\Debug\ITMO.LabsADO.NET.WorkingDataTable.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.WorkingDataTable\ITMO.LabsADO.NET.WorkingDataTable\obj\Debug\ITMO.LabsADO.NET.WorkingDataTable.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.WorkingDataTable\ITMO.LabsADO.NET.WorkingDataTable\obj\Debug\ITMO.LabsADO.NET.WorkingDataTable.Form1.resources
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.WorkingDataTable\ITMO.LabsADO.NET.WorkingDataTable\obj\Debug\ITMO.LabsADO.NET.WorkingDataTable.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.WorkingDataTable\ITMO.LabsADO.NET.WorkingDataTable\obj\Debug\ITMO.LabsADO.NET.WorkingDataTable.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.WorkingDataTable\ITMO.LabsADO.NET.WorkingDataTable\obj\Debug\ITMO.LabsADO.NET.WorkingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.WorkingDataTable\ITMO.LabsADO.NET.WorkingDataTable\obj\Debug\ITMO.LabsADO.NET.WorkingDataTable.exe
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.WorkingDataTable\ITMO.LabsADO.NET.WorkingDataTable\obj\Debug\ITMO.LabsADO.NET.WorkingDataTable.pdb
