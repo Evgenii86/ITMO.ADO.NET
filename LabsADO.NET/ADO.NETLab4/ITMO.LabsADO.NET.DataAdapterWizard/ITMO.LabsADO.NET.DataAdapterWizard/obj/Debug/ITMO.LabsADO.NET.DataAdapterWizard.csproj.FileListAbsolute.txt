@@ -1,0 +1,10 @@
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataAdapterWizard\ITMO.LabsADO.NET.DataAdapterWizard\bin\Debug\ITMO.LabsADO.NET.DataAdapterWizard.exe.config
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataAdapterWizard\ITMO.LabsADO.NET.DataAdapterWizard\bin\Debug\ITMO.LabsADO.NET.DataAdapterWizard.exe
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataAdapterWizard\ITMO.LabsADO.NET.DataAdapterWizard\bin\Debug\ITMO.LabsADO.NET.DataAdapterWizard.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataAdapterWizard\ITMO.LabsADO.NET.DataAdapterWizard\obj\Debug\ITMO.LabsADO.NET.DataAdapterWizard.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataAdapterWizard\ITMO.LabsADO.NET.DataAdapterWizard\obj\Debug\ITMO.LabsADO.NET.DataAdapterWizard.Form1.resources
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataAdapterWizard\ITMO.LabsADO.NET.DataAdapterWizard\obj\Debug\ITMO.LabsADO.NET.DataAdapterWizard.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataAdapterWizard\ITMO.LabsADO.NET.DataAdapterWizard\obj\Debug\ITMO.LabsADO.NET.DataAdapterWizard.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataAdapterWizard\ITMO.LabsADO.NET.DataAdapterWizard\obj\Debug\ITMO.LabsADO.NET.DataAdapterWizard.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataAdapterWizard\ITMO.LabsADO.NET.DataAdapterWizard\obj\Debug\ITMO.LabsADO.NET.DataAdapterWizard.exe
+C:\Users\Евгений\source\repos\ITMO.LabsADO.NET.DataAdapterWizard\ITMO.LabsADO.NET.DataAdapterWizard\obj\Debug\ITMO.LabsADO.NET.DataAdapterWizard.pdb

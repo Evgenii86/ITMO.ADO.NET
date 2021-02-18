@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.LabsADO.NET.CreatingDataTable", "ITMO.LabsADO.NET.CreatingDataTable\ITMO.LabsADO.NET.CreatingDataTable.csproj", "{EAC552AD-EB6B-4143-B697-DD1F2A38AE9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC552AD-EB6B-4143-B697-DD1F2A38AE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC552AD-EB6B-4143-B697-DD1F2A38AE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC552AD-EB6B-4143-B697-DD1F2A38AE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC552AD-EB6B-4143-B697-DD1F2A38AE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4DD80FF-3E5B-4B0B-A860-61FC3B2896A5}
+	EndGlobalSection
+EndGlobal
