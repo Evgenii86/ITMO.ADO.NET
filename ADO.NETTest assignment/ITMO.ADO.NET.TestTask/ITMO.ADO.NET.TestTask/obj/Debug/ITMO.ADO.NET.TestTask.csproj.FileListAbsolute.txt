@@ -1,0 +1,10 @@
+C:\Users\Евгений\source\repos\ITMO.ADO.NET.TestTask\ITMO.ADO.NET.TestTask\bin\Debug\ITMO.ADO.NET.TestTask.exe.config
+C:\Users\Евгений\source\repos\ITMO.ADO.NET.TestTask\ITMO.ADO.NET.TestTask\bin\Debug\ITMO.ADO.NET.TestTask.exe
+C:\Users\Евгений\source\repos\ITMO.ADO.NET.TestTask\ITMO.ADO.NET.TestTask\bin\Debug\ITMO.ADO.NET.TestTask.pdb
+C:\Users\Евгений\source\repos\ITMO.ADO.NET.TestTask\ITMO.ADO.NET.TestTask\obj\Debug\ITMO.ADO.NET.TestTask.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.ADO.NET.TestTask\ITMO.ADO.NET.TestTask\obj\Debug\ITMO.ADO.NET.TestTask.Form1.resources
+C:\Users\Евгений\source\repos\ITMO.ADO.NET.TestTask\ITMO.ADO.NET.TestTask\obj\Debug\ITMO.ADO.NET.TestTask.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.ADO.NET.TestTask\ITMO.ADO.NET.TestTask\obj\Debug\ITMO.ADO.NET.TestTask.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.ADO.NET.TestTask\ITMO.ADO.NET.TestTask\obj\Debug\ITMO.ADO.NET.TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.ADO.NET.TestTask\ITMO.ADO.NET.TestTask\obj\Debug\ITMO.ADO.NET.TestTask.exe
+C:\Users\Евгений\source\repos\ITMO.ADO.NET.TestTask\ITMO.ADO.NET.TestTask\obj\Debug\ITMO.ADO.NET.TestTask.pdb
